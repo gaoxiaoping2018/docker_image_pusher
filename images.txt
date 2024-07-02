@@ -1,1 +1,2 @@
-alpine:3.19.1
+calico/pod2daemon-flexvol:v3.28.0
+calico/typha:v3.28.0
