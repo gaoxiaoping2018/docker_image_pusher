@@ -1,2 +1,2 @@
-docker.io/tomcat
+docker.io/alpine:latest
 
