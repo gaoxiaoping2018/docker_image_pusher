@@ -1,2 +1,2 @@
-tomcat:9.0.70-jdk11-openjdk-alpine
+docker.io/tomcat
 
