@@ -1,2 +1,2 @@
-jre8-alpine
-nginx:1.23.4-alpine
+tomcat:9.0.70-jdk11-openjdk-alpine
+
