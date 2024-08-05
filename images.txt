@@ -1,1 +1,1 @@
-registry.aliyuncs.com/google_containers/kube-state-metrics:v2.9.2
+docker.io/k8s.gcr.io/kube-state-metrics:v2.9.2
