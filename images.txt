@@ -1,4 +1,4 @@
-calico/kube-controllers:v3.13.1
-calico/node:v3.13.1
-calico/cni:v3.13.1
-calico/pod2daemon-flexvol:v3.13.1
+docker.io/jimmidyson/configmap-reload:v0.5.0
+docker.io/grafana/grafana:9.5.3
+docker.io/kube-state-metrics:v2.9.2
+registry.k8s.io/prometheus-adapter/prometheus-adapter:v0.11.1
