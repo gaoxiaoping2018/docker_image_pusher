@@ -1,1 +1,1 @@
-registry.k8s.io/prometheus-adapter/prometheus-adapter:v0.11.1
+registry.aliyuncs.com/google_containers/kube-state-metrics:v2.9.2
