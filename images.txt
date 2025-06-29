@@ -1,1 +1,1 @@
-ubuntu24.04:latest
+ubuntu22.04:jammy
