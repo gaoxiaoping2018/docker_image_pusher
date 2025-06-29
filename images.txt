@@ -1,1 +1,1 @@
-alpine:3.21.3
+ubuntu24.04:latest
