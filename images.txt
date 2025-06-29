@@ -1,1 +1,1 @@
-ubuntu24.04
+ubuntu22.04
