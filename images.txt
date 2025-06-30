@@ -1,1 +1,1 @@
-tomcat:8.5.41-alpine
+goharbor/prepare:v2.13.1
