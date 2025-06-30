@@ -1,1 +1,2 @@
-ubuntu22.04:jammy
+ubuntu:24.04
+ubuntu:22.04
