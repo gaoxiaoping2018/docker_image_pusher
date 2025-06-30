@@ -1,1 +1,1 @@
-tomcat:10.1.42
+tomcat:8.5.41-alpine
