@@ -1,2 +1,2 @@
-ubuntu:24.04
-ubuntu:22.04
+nginx:1.28.0-alpine
+nginx:1.29.0-alpine
