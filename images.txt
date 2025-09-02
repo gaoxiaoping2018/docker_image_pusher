@@ -1,1 +1,1 @@
-centos:7.9.2009
+elevy/slim_java:8
