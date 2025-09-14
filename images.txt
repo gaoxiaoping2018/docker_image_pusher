@@ -1,1 +1,1 @@
-elevy/slim_java:8
+postgres:12.6-alpine
