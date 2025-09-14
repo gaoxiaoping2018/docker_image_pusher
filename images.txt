@@ -1,2 +1,1 @@
 redis:6.2.0-alpine3.13
-busybox:v1.29.2
