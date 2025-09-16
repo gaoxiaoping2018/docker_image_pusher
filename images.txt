@@ -1,1 +1,2 @@
-gitlab/gitlab-ce:13.8.6-ce.0
+bats/bats:1.8.2
+grafana/logstash-output-loki:1.0.1
